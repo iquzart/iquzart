@@ -1,6 +1,5 @@
-🚀 **DevOps Engineer | Cloud & Kubernetes Enthusiast**  
-🔹 Passionate about automation, infrastructure as code, and observability.  
-🔹 Experienced with GitOps, CI/CD, cloud-native technologies, and container orchestration.  
+# DevOps Engineer | Cloud & Kubernetes Enthusiast
+🚀 *Automating and scaling cloud-native applications with GitOps while optimizing performance, security, and reliability in modern DevOps workflows, one commit at a time!*
 
 ## 🛠️ Tech Stack  
 
@@ -43,4 +42,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iquzart&layout=compact&theme=dark)  
 
 ---
-🚀 *Automating and scaling cloud-native applications with GitOps while optimizing performance, security, and reliability in modern DevOps workflows, one commit at a time!*

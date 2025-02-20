@@ -1,9 +1,9 @@
-# Terminal Profile
+<!-- Header Image -->
+<div align="center" style="margin-bottom: 20px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=24283b&height=200&section=header&text=DevOps%20Engineer&fontSize=50&fontColor=7aa2f7&animation=fadeIn&fontAlignY=38&desc=Cloud%20Native%20%7C%20Kubernetes%20%7C%20GitOps&descAlignY=52&descAlign=62&descColor=bb9af7" alt="Header">
+</div>
 
 <div style="background-color: #1a1b26; color: #a9b1d6; font-family: 'Courier New', monospace; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
-  <div style="margin-bottom: 10px;">
-    <span style="color: #7aa2f7;">➜</span> <span style="color: #73daca;">~</span> <span style="color: #e0af68;">echo</span> "Welcome to my terminal-themed GitHub profile!"
-  </div>
   <div style="margin-bottom: 10px;">
     <span style="color: #7aa2f7;">➜</span> <span style="color: #73daca;">~</span> <span style="color: #e0af68;">cat</span> about.txt
   </div>
@@ -15,12 +15,7 @@
   </div>
 </div>
 
-<!-- Header Image -->
-<div align="center" style="margin-bottom: 20px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=24283b&height=200&section=header&text=DevOps%20Engineer&fontSize=50&fontColor=7aa2f7&animation=fadeIn&fontAlignY=38&desc=Cloud%20Native%20%7C%20Kubernetes%20%7C%20GitOps&descAlignY=52&descAlign=62&descColor=bb9af7" alt="Header">
-</div>
-
-## Terminal Commands
+##
 
 <div style="background-color: #24283b; color: #a9b1d6; font-family: 'Courier New', monospace; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
   <div style="margin-bottom: 10px;">
@@ -110,12 +105,9 @@
 ## GitHub Stats
 
 <div style="background-color: #1a1b26; padding: 20px; border-radius: 10px; text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=iquzart&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
 </div>
 
-<div style="text-align: center; margin-top: 20px;">
-  💼 [Professional Profile](#) | 📫 [Contact](#) | 🌐 [Website](#)
-</div>
 
 <div align="center" style="margin-top: 20px;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=24283b&height=100&section=footer" alt="Footer">

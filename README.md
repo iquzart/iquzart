@@ -2,11 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=24283b&height=200&section=header&text=DevOps%20Engineer&fontSize=50&fontColor=7aa2f7&animation=fadeIn&fontAlignY=38&desc=Cloud%20Native%20%7C%20Kubernetes%20%7C%20GitOps&descAlignY=52&descAlign=62&descColor=bb9af7)
 
-<div style="background-color: #1a1b26; padding: 20px; border-radius: 6px; margin: 20px 0;">
 
-> *Architecting scalable, secure, and resilient cloud-native solutions through automation and GitOps practices*
-
-</div>
 
 <div style="background-color: #24283b; padding: 20px; border-radius: 6px; margin: 20px 0;">
 
@@ -83,20 +79,7 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=iquzart&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="GitHub Stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iquzart&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5" alt="Top Languages">
-
-</div>
-
----
-
-<div style="background-color: #24283b; padding: 10px; border-radius: 6px;">
-
-<p align="center" style="color: #7aa2f7">
-  💼 <a href="#" style="color: #7dcfff">Professional Profile</a> | 
-  📫 <a href="#" style="color: #7dcfff">Contact</a> | 
-  🌐 <a href="#" style="color: #7dcfff">Website</a>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=iquzart&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="Stats">
 
 </div>
 

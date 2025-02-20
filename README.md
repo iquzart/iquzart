@@ -1,114 +1,88 @@
-<!-- Header Image -->
-<div align="center" style="margin-bottom: 20px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=24283b&height=200&section=header&text=DevOps%20Engineer&fontSize=50&fontColor=7aa2f7&animation=fadeIn&fontAlignY=38&desc=Cloud%20Native%20%7C%20Kubernetes%20%7C%20GitOps&descAlignY=52&descAlign=62&descColor=bb9af7" alt="Header">
+<div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=24283b&height=200&section=header&text=DevOps%20Engineer&fontSize=50&fontColor=7aa2f7&animation=fadeIn&fontAlignY=38&desc=Cloud%20Native%20%7C%20Kubernetes%20%7C%20GitOps&descAlignY=52&descAlign=62&descColor=bb9af7)
+
+
+
+<div style="background-color: #24283b; padding: 20px; border-radius: 6px; margin: 20px 0;">
+
+### 🛠️ Technology Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white">
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white">
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white">
+  <img src="https://img.shields.io/badge/Kustomize-3178C6?style=flat-square">
+  <img src="https://img.shields.io/badge/Vagrant-1563FF?style=flat-square&logo=vagrant&logoColor=white">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white">
+  <img src="https://img.shields.io/badge/AKS-0080FF?style=flat-square&logo=azure&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=red-hat-open-shift&logoColor=white">
+  <img src="https://img.shields.io/badge/Rancher-0075A8?style=flat-square&logo=rancher&logoColor=white">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=istio&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white">
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white">
+  <img src="https://img.shields.io/badge/Envoy-FFB900?style=flat-square&logo=envoyproxy&logoColor=black">
+  <img src="https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefik&logoColor=white">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/KrakenD-FF4B55?style=flat-square&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white">
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white">
+  <img src="https://img.shields.io/badge/Tekton-EE0000?style=flat-square&logo=tekton&logoColor=white">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Vault-000000?style=flat-square&logo=vault&logoColor=white">
+  <img src="https://img.shields.io/badge/Trivy-0E75C8?style=flat-square&logo=aqua&logoColor=white">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white">
+  <img src="https://img.shields.io/badge/Loki-0E75C8?style=flat-square">
+  <img src="https://img.shields.io/badge/Tempo-FFC107?style=flat-square">
+  <img src="https://img.shields.io/badge/Thanos-512DA8?style=flat-square&logo=thanos&logoColor=white">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/RHEL-EE0000?style=flat-square&logo=red-hat&logoColor=white">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white">
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+</p>
+
 </div>
 
-<div style="background-color: #1a1b26; color: #a9b1d6; font-family: 'Courier New', monospace; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
-  <div style="margin-bottom: 10px;">
-    <span style="color: #7aa2f7;">➜</span> <span style="color: #73daca;">~</span> <span style="color: #e0af68;">cat</span> about.txt
-  </div>
-  <div style="margin-bottom: 10px;">
-    DevOps Engineer | Container Platforms | Kubernetes | Docker | Cloud Native | GitOps
-  </div>
-  <div style="margin-bottom: 10px;">
-    <span style="color: #7aa2f7;">➜</span> <span style="color: #73daca;">~</span> <span class="cursor"></span>
-  </div>
+<div style="background-color: #1a1b26; padding: 20px; border-radius: 6px; margin: 20px 0;">
+
+### 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=iquzart&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="Stats">
+
 </div>
 
-##
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=24283b&height=100&section=footer)
 
-<div style="background-color: #24283b; color: #a9b1d6; font-family: 'Courier New', monospace; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
-  <div style="margin-bottom: 10px;">
-    <span style="color: #7aa2f7;">➜</span> <span style="color: #73daca;">~</span> <span style="color: #e0af68;">cat</span> tools.txt
-  </div>
-  <pre style="margin: 0; font-size: 14px;">
-# Infrastructure as Code & Automation
-  Terraform   Ansible   Helm   Kustomize   Vagrant
-
-# Cloud & Container Orchestration
-  Azure   AKS   Kubernetes   OpenShift   Rancher
-
-# Service Mesh & Networking
-  Istio   Docker   Nginx   Envoy   Traefik
-
-# CI/CD & Security
-  GitHub Actions   ArgoCD   Tekton   Vault   Trivy
-
-# Monitoring & Observability
-  Prometheus   Grafana   Loki   Tempo   Thanos
-
-# Databases & Messaging
-  MySQL   PostgreSQL   MongoDB   RabbitMQ   Redis
-
-# Linux & Scripting
-  RHEL   Ubuntu   Debian   Bash   Go   Python
-  </pre>
-</div>
-
-## Skills
-
-<div style="margin-bottom: 20px;">
-  <!-- Infrastructure & Automation -->
-  ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-  ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-  ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-  ![Kustomize](https://img.shields.io/badge/Kustomize-3178C6?style=for-the-badge)
-  ![Vagrant](https://img.shields.io/badge/Vagrant-1563FF?style=for-the-badge&logo=vagrant&logoColor=white)
-  <br /><br />
-  
-  <!-- Cloud & Orchestration -->
-  ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-  ![AKS](https://img.shields.io/badge/AKS-0080FF?style=for-the-badge&logo=azure&logoColor=white)
-  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-  ![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=red-hat-open-shift&logoColor=white)
-  ![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white)
-  <br /><br />
-  
-  <!-- Service Mesh & Networking -->
-  ![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-  ![Envoy](https://img.shields.io/badge/Envoy-FFB900?style=for-the-badge&logo=envoyproxy&logoColor=black)
-  ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefik&logoColor=white)
-  <br /><br />
-  
-  <!-- CI/CD & Security -->
-  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-  ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-  ![Tekton](https://img.shields.io/badge/Tekton-EE0000?style=for-the-badge&logo=tekton&logoColor=white)
-  ![Vault](https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white)
-  ![Trivy](https://img.shields.io/badge/Trivy-0E75C8?style=for-the-badge&logo=aqua&logoColor=white)
-  <br /><br />
-  
-  <!-- Monitoring & Observability -->
-  ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-  ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-  ![Loki](https://img.shields.io/badge/Loki-0E75C8?style=for-the-badge)
-  ![Tempo](https://img.shields.io/badge/Tempo-FFC107?style=for-the-badge)
-  ![Thanos](https://img.shields.io/badge/Thanos-512DA8?style=for-the-badge&logo=thanos&logoColor=white)
-  <br /><br />
-  
-  <!-- Databases & Messaging -->
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-  <br /><br />
-  
-  <!-- Linux & Scripting -->
-  ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-  ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-</div>
-
-## GitHub Stats
-
-<div style="background-color: #1a1b26; padding: 20px; border-radius: 10px; text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=iquzart&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
-</div>
-
-
-<div align="center" style="margin-top: 20px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=24283b&height=100&section=footer" alt="Footer">
 </div>

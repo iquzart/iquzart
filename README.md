@@ -6,7 +6,7 @@
 
 <div style="background-color: #24283b; padding: 20px; border-radius: 6px; margin: 20px 0;">
 
-### 🛠️ Technology Stack
+### 🛠️ Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white">
@@ -77,10 +77,10 @@
 
 <div style="background-color: #1a1b26; padding: 20px; border-radius: 6px; margin: 20px 0;">
 
-### 📊 GitHub Stats
+### 📊 Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=iquzart&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="Stats">
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iquzart&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5" alt="Top Languages">
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=24283b&height=100&section=footer)

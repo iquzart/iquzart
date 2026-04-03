@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=24283b&height=200&section=header&text=DevOps%20Engineer&fontSize=50&fontColor=7aa2f7&animation=fadeIn&fontAlignY=38&desc=Cloud%20Native%20%7C%20Kubernetes%20%7C%20GitOps&descAlignY=52&descAlign=62&descColor=bb9af7)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=24283b&height=200&section=header&text=Platform%20Engineer&fontSize=50&fontColor=7aa2f7&animation=fadeIn&fontAlignY=38&desc=Cloud%20Native%20%7C%20Kubernetes%20%7C%20GitOps&descAlignY=52&descAlign=62&descColor=bb9af7)
 
 
 
